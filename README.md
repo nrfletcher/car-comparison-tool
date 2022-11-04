@@ -18,6 +18,7 @@ In this particular instance we are utilizing three dependencies:
 * Spring Data JPA - allows us to persist data to our SQL storage
 * Spring Web - allows us to create RESTful APIs via the MVC (model, view, controller) pattern
 * PostgreSQL Driver - a form of JDBC which connects our database to the project
+
 Our project architecture has a few components:
 * Controller - this is where our frontend and backend communicate, and where our APIs are defined
 * Model - this is where the structure and fields of our object (in this case a car) are defined
