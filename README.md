@@ -30,3 +30,7 @@ This is a small preview of how the app looks
 <br>
 
 ![alt text](https://github.com/nrfletcher/car-comparison-tool/blob/main/frontend/src/resources/example.JPG)
+
+The database used
+
+![alt text](database.jpg)
