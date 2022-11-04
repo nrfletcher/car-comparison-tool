@@ -33,4 +33,4 @@ This is a small preview of how the app looks
 
 The database used
 
-![alt text](database.jpg)
+![alt text]([database.jpg](https://github.com/nrfletcher/car-comparison-tool/blob/main/database.JPG))
