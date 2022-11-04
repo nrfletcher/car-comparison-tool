@@ -24,6 +24,9 @@ Our project architecture has a few components:
 * Repository - an interface that allows us to persist data as a model to our database
 ## The Database
 * The PostgreSQL database has one table (cars) and four fields (make, model, horse power, and MSRP) as well as a unique ID for each car instance
+
 This is a small preview of how the app looks
+
 <br>
+
 ![alt text](https://github.com/nrfletcher/car-comparison-tool/blob/main/frontend/src/resources/example.JPG)
