@@ -1,0 +1,17 @@
+UI Design
+-----------------
+
+get make and model selectors
+on choice update items
+on choice of model update car info
+
+
+
+{
+                cars.map((car, i) => {
+                    return <li>
+                        <a className="dropdown-item" 
+                            onClick={getAllCars} key={i}>{car.make}</a>
+                    </li>
+                })
+            }
